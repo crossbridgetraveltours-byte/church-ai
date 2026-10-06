@@ -1,0 +1,9 @@
+{
+  "name": "CHURCH MEDIA AI",
+  "description": "Professional AI-powered church media workspace for live scripture presentation and transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
